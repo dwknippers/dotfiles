@@ -1,0 +1,9 @@
+Xft.dpi: 200
+
+urxvt.font: xft:monospace:size=8
+urxvt.letterSpace: -1
+urxvt.foreground: #E5E5E5
+urxvt.background: #000000
+
+urxvt.scrollBar: false
+
