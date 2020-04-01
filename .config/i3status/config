@@ -19,7 +19,7 @@ order += "memory"
 order += "tztime local"
 
 battery all {
-        format = "%status %percentage %remaining"
+        format = "%percentage"
 }
 
 volume master {
@@ -39,5 +39,5 @@ memory {
 }
 
 tztime local {
-        format = "%Y-%m-%d %H:%M:%S"
+        format = "%Y-%m-%d %a %H:%M:%S"
 }

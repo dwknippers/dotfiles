@@ -1,2 +1,3 @@
 set wrap!
-syntax off
+"colo base16-grayscale-dark
+
